@@ -7,3 +7,5 @@ with arida, you can do the following:
 - Ease insight extractio for data scientist 
 - Understand your data without brainstorming 
 
+
+Wanna get access to arida BETA API, email me borisphilosophy@gmail.com
